@@ -1,0 +1,59 @@
+
+[
+  {
+    "name": "Alice Johnson",
+    "rollNumber": "STU001",
+    "roomNumber": "101A",
+    "phoneNumber": "555-0101",
+    "address": "123 Maple St, Springfield"
+  },
+  {
+    "name": "Bob Smith",
+    "rollNumber": "STU002",
+    "roomNumber": "102B",
+    "phoneNumber": "555-0102",
+    "address": "456 Oak Ave, Shelbyville"
+  },
+  {
+    "name": "Charlie Brown",
+    "rollNumber": "STU003",
+    "roomNumber": "203C",
+    "phoneNumber": "555-0103",
+    "address": "789 Pine Ln, Capital City"
+  },
+  {
+    "name": "Diana Prince",
+    "rollNumber": "STU004",
+    "roomNumber": "301A",
+    "phoneNumber": "555-0104",
+    "address": "101 Paradise Island, Themyscira"
+  },
+  {
+    "name": "Ethan Hunt",
+    "rollNumber": "STU005",
+    "roomNumber": "101A",
+    "phoneNumber": "555-0105",
+    "address": "21 Impossible Mission St, Langley"
+  },
+  {
+    "name": "Fiona Glenanne",
+    "rollNumber": "STU006",
+    "roomNumber": "402D",
+    "phoneNumber": "555-0106",
+    "address": "321 Burn Notice Blvd, Miami"
+  },
+  {
+    "name": "George Costanza",
+    "rollNumber": "STU007",
+    "roomNumber": "505E",
+    "phoneNumber": "555-0107",
+    "address": "1344 Queens Blvd, New York"
+  },
+  {
+    "name": "Hannah Montana",
+    "rollNumber": "STU008",
+    "roomNumber": "203C",
+    "phoneNumber": "555-0108",
+    "address": "512 Stewart Rd, Malibu"
+  }
+]
