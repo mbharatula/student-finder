@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchButton = document.getElementById('search-button');
     const resultsContainer = document.getElementById('results-container');
 
-    const API_URL = 'http://localhost:4000/api/search';
+    const API_URL = 'https://student-finder-backend.onrender.com/api/search';
 
     const fetchStudents = async () => {
         const nameQuery = nameInput.value.trim();
