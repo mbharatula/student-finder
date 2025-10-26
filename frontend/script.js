@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p><strong>Roll Number:</strong> ${student.rollNumber}</p>
                 <p><strong>Room:</strong> ${student.roomNumber}</p>
                 <p><strong>Mobile Number: </strong>${student.phoneNumber}</p>
-                <p><strong>Address: </strong>${student.address}</p>
+                <p><strong>Email: </strong>${student.email}</p>
             `;
             resultsContainer.appendChild(studentCard);
         });
