@@ -3,8 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchButton = document.getElementById('search-button');
     const resultsContainer = document.getElementById('results-container');
 
-    // The new URL points to our serverless function proxy
-    const API_URL = '/.netlify/functions/search';
+    const API_URL = 'https://student-finder-backend.onrender.com/api/search';
 
     const fetchStudents = async () => {
         const nameQuery = nameInput.value.trim();
